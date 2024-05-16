@@ -1,0 +1,16 @@
+{
+    "Name": "SCNU-Mandarin-Cantonese-dataset",
+    "License": "",
+    "Authors": [
+        "Binke Yuan",
+        "Junjie Yang"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.1.0"
+}
