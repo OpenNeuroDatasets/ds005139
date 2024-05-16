@@ -2,17 +2,17 @@ The SCNU Mandarin/Cantonese Dataset comprises Mandarin and Cantonese renditions 
 
 ## Stories
 
-The Mandarin version of the story "Du jiang Yan (Dujiangyan)", abbreviated as "djyg, has a stimulating audio duration of 16:24.
+- The Mandarin version of the story "Du jiang Yan (Dujiangyan)", abbreviated as "djyg, has a stimulating audio duration of 16:24.
 
-The Cantonese version of the story "Du jiang Yan (Dujiangyan)", abbreviated as "djyy," has a stimulating audio duration of 14:22.
+- The Cantonese version of the story "Du jiang Yan (Dujiangyan)", abbreviated as "djyy," has a stimulating audio duration of 14:22.
 
-The Mandarin version of the story "Liang Shan Bo Yu Zhu Ying Tai (Butterfly Lovers)", abbreviated as "lsbg," has a stimulating audio duration of 13:04.
+- The Mandarin version of the story "Liang Shan Bo Yu Zhu Ying Tai (Butterfly Lovers)", abbreviated as "lsbg," has a stimulating audio duration of 13:04.
 
-The Cantonese version of the story "Liang Shan Bo Yu Zhu Ying Tai (Butterfly Lovers)", abbreviated as "lsby," has a stimulating audio duration of 11:05.
+- The Cantonese version of the story "Liang Shan Bo Yu Zhu Ying Tai (Butterfly Lovers)", abbreviated as "lsby," has a stimulating audio duration of 11:05.
 
-The Mandarin version of the story "Shen Bi Ma Liang (MaLiang and His Magical Writing Brush)", abbreviated as "mlg," has a stimulating audio duration of 07:38.
+- The Mandarin version of the story "Shen Bi Ma Liang (MaLiang and His Magical Writing Brush)", abbreviated as "mlg," has a stimulating audio duration of 07:38.
 
-The Cantonese version of the story "Shen Bi Ma Liang (MaLiang and His Magical Writing Brush)", abbreviated as "mly," has a stimulating audio duration of 07:11.
+- The Cantonese version of the story "Shen Bi Ma Liang (MaLiang and His Magical Writing Brush)", abbreviated as "mly," has a stimulating audio duration of 07:11.
 
 Each participant undergoes a 6-second (4 TRs) silent scan at the beginning and the end of the stimulating audio. Therefore, we recommend removing the first and last 4 TRs of data.
 
